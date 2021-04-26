@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://neuu.top</id>
-    <title>Gridea</title>
-    <updated>2021-04-26T06:45:09.928Z</updated>
+    <title>Neu</title>
+    <updated>2021-04-26T06:45:51.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://neuu.top"/>
     <link rel="self" href="https://neuu.top/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://neuu.top/images/avatar.png</logo>
     <icon>https://neuu.top/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, Neu</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://neuu.top/post/hello-gridea/</id>
