@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://neuein.pages.dev</id>
+    <id>https://neuu.top</id>
     <title>Neu</title>
-    <updated>2021-05-06T10:46:43.723Z</updated>
+    <updated>2021-05-06T10:50:48.341Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://neuein.pages.dev"/>
-    <link rel="self" href="https://neuein.pages.dev/atom.xml"/>
+    <link rel="alternate" href="https://neuu.top"/>
+    <link rel="self" href="https://neuu.top/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://neuein.pages.dev/images/avatar.png</logo>
-    <icon>https://neuein.pages.dev/favicon.ico</icon>
+    <logo>https://neuu.top/images/avatar.png</logo>
+    <icon>https://neuu.top/favicon.ico</icon>
     <rights>All rights reserved 2021, Neu</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://neuein.pages.dev/post/hello-gridea/</id>
-        <link href="https://neuein.pages.dev/post/hello-gridea/">
+        <id>https://neuu.top/post/hello-gridea/</id>
+        <link href="https://neuu.top/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
